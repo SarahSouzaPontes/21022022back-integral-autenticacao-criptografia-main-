@@ -1,0 +1,20 @@
+{
+  "name": "catalogo_pokemon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rotas.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "secure-password": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
